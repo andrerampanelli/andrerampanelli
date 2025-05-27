@@ -56,8 +56,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrerampanelli&show_icons=true&theme=tokyonight" alt="André's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrerampanelli&layout=compact&theme=tokyonight" alt="André's Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andrerampanelli&show_icons=true&theme=transparent&hide=prs,commits,issues,stars,contribs&custom_title=André%27s Github Stats" alt="André's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrerampanelli&layout=compact&theme=transparent" alt="André's Top Languages" height="170"/>
 </div>
 
 ---
